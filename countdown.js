@@ -38,5 +38,5 @@ function countdown(endDate) {
 }
 
 (function () { 
-  countdown('12/25/2020 02:30:00 PM'); 
+  countdown('12/22/2020 09:30:00 AM'); 
 }());
